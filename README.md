@@ -7,6 +7,9 @@ Home page
 
 <img width="606" alt="12" src="https://user-images.githubusercontent.com/92879200/184523631-fad11d54-d43d-489f-b23c-ac36b5f40f88.png">
 
+Search box
+<img width="852" alt="13" src="https://user-images.githubusercontent.com/92879200/184523649-f1674e5d-27d0-415e-a01e-3d98710eca15.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
