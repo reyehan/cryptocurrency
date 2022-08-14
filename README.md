@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Home page
 <img width="960" alt="11" src="https://user-images.githubusercontent.com/92879200/184523594-c5ea3873-8ca8-4521-963f-f5be0147e92b.png">
 
-<img width="606" alt="12" src="https://user-images.githubusercontent.com/92879200/184523631-fad11d54-d43d-489f-b23c-ac36b5f40f88.png">
+<img width="960" alt="15" src="https://user-images.githubusercontent.com/92879200/184523694-bab84de5-2431-4184-97a8-bf038bde4516.png">
 
 Search box
 <img width="852" alt="13" src="https://user-images.githubusercontent.com/92879200/184523649-f1674e5d-27d0-415e-a01e-3d98710eca15.png">
