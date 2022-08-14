@@ -8,7 +8,7 @@ Home page
 <img width="960" alt="15" src="https://user-images.githubusercontent.com/92879200/184523694-bab84de5-2431-4184-97a8-bf038bde4516.png">
 
 Search box
-<img width="852" alt="13" src="https://user-images.githubusercontent.com/92879200/184523649-f1674e5d-27d0-415e-a01e-3d98710eca15.png">
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/92879200/184523649-f1674e5d-27d0-415e-a01e-3d98710eca15.png">
 
 ## Available Scripts
 
